@@ -30,11 +30,11 @@ performance.
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
 
-![WhatsApp Image 2025-11-13 at 22 37 37_af9e6517](https://github.com/user-attachments/assets/54604806-e8b8-447f-914f-77d1ad6c751a)
+<img width="480" height="355" alt="image" src="https://github.com/user-attachments/assets/e1312872-d135-46e7-8682-c8cb8522b4a9" />
 
 ## MODEL GRAPH:
 
-![WhatsApp Image 2025-11-13 at 22 37 36_410f088d](https://github.com/user-attachments/assets/c238a1b0-046d-48fa-a0ac-bff97ffd2b0d)
+<img width="329" height="244" alt="image" src="https://github.com/user-attachments/assets/50a7e1a4-132f-454a-ab85-d3b66f9eab2d" />
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -52,7 +52,8 @@ waveforms are plotted in a graph sheet.
 
 ## TABULATION:
 
-![WhatsApp Image 2025-11-13 at 22 37 37_d460c86e](https://github.com/user-attachments/assets/e1929503-5719-4883-98ad-9f6dfd09ad1b)
+<img width="473" height="204" alt="image" src="https://github.com/user-attachments/assets/06315875-a772-4dce-b522-ba24f2d3c281" />
+
 
 ## CALCULATIONS:
 
@@ -61,7 +62,7 @@ waveforms are plotted in a graph sheet.
 
 ## GRAPH:
 
-![WhatsApp Image 2025-11-13 at 22 37 35_d6dad5bc](https://github.com/user-attachments/assets/8c141c08-0fea-45f5-a457-b344b710fcdc)
+<img width="555" height="628" alt="image" src="https://github.com/user-attachments/assets/46cc7fae-a981-4688-a170-67e4f6c0c77e" />
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
