@@ -30,7 +30,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
-![WhatsApp Image 2025-11-13 at 22 51 28_9c0425cf](https://github.com/user-attachments/assets/4fee825e-54a1-4a89-8354-6bebdcbc4f27)
+<img width="331" height="208" alt="image" src="https://github.com/user-attachments/assets/ff73da50-b832-4219-8163-28a226fff3f1" />
 
 
 ## MODEL GRAPH:
@@ -51,7 +51,8 @@ Choose  R1 = 1kΩ, Rf=10kΩ
    
 ## TABULATION:
 
-![WhatsApp Image 2025-11-13 at 22 51 27_c9a482f4](https://github.com/user-attachments/assets/f1716abb-696d-4715-8341-761cfcd51838)
+<img width="311" height="208" alt="image" src="https://github.com/user-attachments/assets/dd3b27a9-f45c-496c-828e-328398623934" />
+
 
 
 ## CALCULATIONS:
